@@ -1,0 +1,14 @@
+D:\c# files\chlng4-new\bin\Debug\chlng4-new.exe.config
+D:\c# files\chlng4-new\bin\Debug\chlng4-new.exe
+D:\c# files\chlng4-new\bin\Debug\chlng4-new.pdb
+D:\c# files\chlng4-new\obj\Debug\chlng4-new.csproj.AssemblyReference.cache
+D:\c# files\chlng4-new\obj\Debug\chlng4-new.csproj.CoreCompileInputs.cache
+D:\c# files\chlng4-new\obj\Debug\chlng4-new.exe
+D:\c# files\chlng4-new\obj\Debug\chlng4-new.pdb
+D:\c# files\UAMS\bin\Debug\chlng4-new.exe.config
+D:\c# files\UAMS\bin\Debug\chlng4-new.exe
+D:\c# files\UAMS\bin\Debug\chlng4-new.pdb
+D:\c# files\UAMS\obj\Debug\chlng4-new.csproj.AssemblyReference.cache
+D:\c# files\UAMS\obj\Debug\chlng4-new.csproj.CoreCompileInputs.cache
+D:\c# files\UAMS\obj\Debug\chlng4-new.exe
+D:\c# files\UAMS\obj\Debug\chlng4-new.pdb
